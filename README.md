@@ -1,2 +1,2 @@
 # RubbishBrigade
-Reworking or ASP.NET MVC 5 project using Entity Framework
+Reworking of ASP.NET MVC 5 project using Entity Framework
